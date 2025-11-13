@@ -1,7 +1,8 @@
 const products = [
   { id: 1, name: "Camiseta básica", price: 19.9 },
   { id: 2, name: "Jeans clásicos", price: 39.9 },
-  { id: 3, name: "Gorra", price: 12.5 }
+  { id: 3, name: "Gorra", price: 12.5 },
+  { id: 4, name: "Sudadera", price: 59.9 }
 ];
 
 const productsEl = document.getElementById("products");
